@@ -16,3 +16,6 @@ Some of the projects I have previously worked on are:
 
 
 [Reach Me here: 📮](https://www.linkedin.com/in/abhay-h-kashyap/)
+
+
+[![My's github stats](https://github-readme-stats.vercel.app/api?username=abhayhk2001&show_icons=true&theme=merko)](https://github.com/dereknguyen269)
