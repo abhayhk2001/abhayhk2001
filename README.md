@@ -42,9 +42,29 @@ Some of the projects I have previously worked on are:
     <img src="assets/icons/pytorch.png" alt="Pytorch Logo" height="35px"/> &ensp;
     <img src="assets/icons/typescript.png" alt="TypeScript Logo" height="35px"/> &ensp;
 </details>
+<br>
 
+<details>
+<summary>Technologies:</summary>
+<hr>
+    <img src="assets/icons/docker.png" alt="Docker Logo" height="35px"/> &ensp;
+    <img src="assets/icons/hpcc.jpeg" alt="HPCC Logo" height="35px"/> &ensp;
+    <img src="assets/icons/kubernetes.png" alt="Kubernetes Logo" height="35px"/> &ensp;
+    <img src="assets/icons/mongodb.png" alt="MongoDB Logo" height="35px"/> &ensp;
+    <img src="assets/icons/mysql.png" alt="MySQL Logo" height="35px"/> &ensp;
+    <img src="assets/icons/openssl.svg" alt="OpenSSL Logo" height="35px"/> &ensp;
+    <img src="assets/icons/polygon.png" alt="Polygon Matic Logo" height="35px"/> &ensp;
+    <img src="assets/icons/terraform.png" alt="terraform Logo" height="35px"/> &ensp;
+</details>
+<br>
 
-
-
+<details>
+<summary>Tools:</summary>
+<hr>
+    <img src="assets/icons/git.png" alt="Git Logo" height="35px"/> &ensp;
+    <img src="assets/icons/github.png" alt="GitHub Logo" height="35px"/> &ensp;
+    <img src="assets/icons/vscode.png" alt="VSCode Logo" height="35px"/> &ensp;
+</details>
+<br>
 
 <!-- [![My's github stats](https://github-readme-stats.vercel.app/api?username=abhayhk2001&show_icons=true&theme=merko)](https://github.com/dereknguyen269) -->
