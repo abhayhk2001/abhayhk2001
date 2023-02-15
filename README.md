@@ -12,7 +12,7 @@ Some of the projects I have previously worked on are:
 2. [💸 Personal Finance Manager using Java](https://github.com/abhayhk2001/Personal-Finance-JavaFX)
 3. [💉 Rural Vaccination Drive Portal](https://github.com/abhayhk2001/DTL)
 4. [📝 React-Todo Application](https://taskcompleted-react.netlify.app/)
-5. [<img src="assets/icons/network.svg" alt="drawing" width="17"/> Graph Algorithm Visualizer](https://graphviz.netlify.app/)
+5. [<img src="./assets/icons/network.svg" alt="drawing" width="17"/> Graph Algorithm Visualizer](https://graphviz.netlify.app/)
 
 
 [Reach Me here: 📮](https://www.linkedin.com/in/abhay-h-kashyap/)
@@ -20,8 +20,8 @@ Some of the projects I have previously worked on are:
 
 <details>
 <summary>Langauges:</summary>
-<hr>
-<img src="assets/icons/javascript.png" alt="JavaScript Logo" height="35px"/> &ensp;
+<hr>&ensp;
+    <img src="assets/icons/javascript.png" alt="JavaScript Logo" height="35px"/> &ensp;
     <img src="assets/icons/c++.png" alt="C++ Logo" height="35px"/> &ensp;
     <img src="assets/icons/python.png" alt="Python Logo" height="35px"/> &ensp;
     <img src="assets/icons/c.png" alt="C Logo" height="35px"/> &ensp;
@@ -32,7 +32,7 @@ Some of the projects I have previously worked on are:
 
 <details>
 <summary>Frameworks and Libraries:</summary>
-<hr>
+<hr>&ensp;
     <img src="assets/icons/react.png" alt="React Logo" height="35px"/> &ensp;
     <img src="assets/icons/flutter.png" alt="Flutter Logo" height="35px"/> &ensp;
     <img src="assets/icons/tf.png" alt="Tensorflow Logo" height="35px"/> &ensp;
@@ -46,7 +46,7 @@ Some of the projects I have previously worked on are:
 
 <details>
 <summary>Technologies:</summary>
-<hr>
+<hr>&ensp;
     <img src="assets/icons/docker.png" alt="Docker Logo" height="35px"/> &ensp;
     <img src="assets/icons/hpcc.jpeg" alt="HPCC Logo" height="35px"/> &ensp;
     <img src="assets/icons/kubernetes.png" alt="Kubernetes Logo" height="35px"/> &ensp;
@@ -60,7 +60,7 @@ Some of the projects I have previously worked on are:
 
 <details>
 <summary>Tools:</summary>
-<hr>
+<hr>&ensp;
     <img src="assets/icons/git.png" alt="Git Logo" height="35px"/> &ensp;
     <img src="assets/icons/github.png" alt="GitHub Logo" height="35px"/> &ensp;
     <img src="assets/icons/vscode.png" alt="VSCode Logo" height="35px"/> &ensp;
@@ -72,5 +72,5 @@ Some of the projects I have previously worked on are:
 <hr>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhayhk2001&show_icons=true&theme=merko" alt="my github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhayhk2001&show_icons=true&theme=merko" alt="my github stats" width="80%"/>
 </p>
