@@ -1,4 +1,4 @@
-## Hi there <img src="wave.gif" alt="drawing" width="25"/>
+# Hi there <img src="wave.gif" alt="drawing" width="40"/>
 
 I am Abhay H Kashyap, studying Computer Science and Engineering in R.V. College of Engineering, Bengaluru, India.
 
@@ -12,7 +12,7 @@ Some of the projects I have previously worked on are:
 2. [💸 Personal Finance Manager using Java](https://github.com/abhayhk2001/Personal-Finance-JavaFX)
 3. [💉 Rural Vaccination Drive Portal](https://github.com/abhayhk2001/DTL)
 4. [📝 React-Todo Application](https://taskcompleted-react.netlify.app/)
-5. [<img src="./network.svg" alt="drawing" width="20"/> Graph Algorithm Visualizer](https://graphviz.netlify.app/)
+5. [<img src="assets/icons/network.svg" alt="drawing" width="17"/> Graph Algorithm Visualizer](https://graphviz.netlify.app/)
 
 
 [Reach Me here: 📮](https://www.linkedin.com/in/abhay-h-kashyap/)
@@ -67,4 +67,10 @@ Some of the projects I have previously worked on are:
 </details>
 <br>
 
-<!-- [![My's github stats](https://github-readme-stats.vercel.app/api?username=abhayhk2001&show_icons=true&theme=merko)](https://github.com/dereknguyen269) -->
+
+## My GitHub Statistics: 
+<hr>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhayhk2001&show_icons=true&theme=merko" alt="my github stats"/>
+</p>
