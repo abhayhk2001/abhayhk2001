@@ -18,4 +18,33 @@ Some of the projects I have previously worked on are:
 [Reach Me here: 📮](https://www.linkedin.com/in/abhay-h-kashyap/)
 
 
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=abhayhk2001&show_icons=true&theme=merko)](https://github.com/dereknguyen269)
+<details>
+<summary>Langauges:</summary>
+<hr>
+<img src="assets/icons/javascript.png" alt="JavaScript Logo" height="35px"/> &ensp;
+    <img src="assets/icons/c++.png" alt="C++ Logo" height="35px"/> &ensp;
+    <img src="assets/icons/python.png" alt="Python Logo" height="35px"/> &ensp;
+    <img src="assets/icons/c.png" alt="C Logo" height="35px"/> &ensp;
+    <img src="assets/icons/java.png" alt="Java Logo" height="35px"/> &ensp;
+    <img src="assets/icons/dartlang.png" alt="Dart Logo" height="35px"/> &ensp;
+</details>
+<br>
+
+<details>
+<summary>Frameworks and Libraries:</summary>
+<hr>
+    <img src="assets/icons/react.png" alt="React Logo" height="35px"/> &ensp;
+    <img src="assets/icons/flutter.png" alt="Flutter Logo" height="35px"/> &ensp;
+    <img src="assets/icons/tf.png" alt="Tensorflow Logo" height="35px"/> &ensp;
+    <img src="assets/icons/django.svg" alt="Django Logo" height="33px"/> &ensp;
+    <img src="assets/icons/solr.png" alt="Solr Logo" height="35px"/> &ensp;
+    <img src="assets/icons/vue.png" alt="Vue Logo" height="35px"/> &ensp;
+    <img src="assets/icons/pytorch.png" alt="Pytorch Logo" height="35px"/> &ensp;
+    <img src="assets/icons/typescript.png" alt="TypeScript Logo" height="35px"/> &ensp;
+</details>
+
+
+
+
+
+<!-- [![My's github stats](https://github-readme-stats.vercel.app/api?username=abhayhk2001&show_icons=true&theme=merko)](https://github.com/dereknguyen269) -->
