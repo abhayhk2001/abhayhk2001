@@ -1,13 +1,17 @@
 # Hi there <img src="wave.gif" alt="drawing" width="40"/>
 
-I am Abhay H Kashyap, studying Computer Science and Engineering in R.V. College of Engineering, Bengaluru, India.
+I am Abhay H Kashyap, pursuing my bachelors in Computer Science and Engineering at R.V. College of Engineering, Bengaluru, India and interning at Qualcomm India. 
 
-I am a Student, Web Developer and Deep Learning Researcher , Astronomy and Astrophysics enthusiast.
+I would describe myself as a Student, and a Computer Enthusiast. I have worked in the fields of ML, Blockchain and Web Development. I like to explore new areas and find interesting work in them.
 
-- 📱 I am currently working Samsung PRISM project about instant apps.
-- 🕸 I have recently started exploring Deep Learning.
+I am also passionate about astronomy and computational astronomy. (Would ike to pursue futher if you have any suggestions let me know)
 
-Some of the projects I have previously worked on are:
+Currently: 
+- 💻 I am starting to build my portfolio website.
+- <img src="./assets/logos/5968906.png" alt="drawing" width="17"/> Exploring writing articles on Medium. [View Them](https://medium.com/@abhay_hk)
+
+
+Some projects I have previously worked on are:
 1. [Conditional Independence using RCoT](https://github.com/mayank-agarwal-ln/RCoT)
 2. [💸 Personal Finance Manager using Java](https://github.com/abhayhk2001/Personal-Finance-JavaFX)
 3. [💉 Rural Vaccination Drive Portal](https://github.com/abhayhk2001/DTL)
@@ -15,7 +19,8 @@ Some of the projects I have previously worked on are:
 5. [<img src="./assets/icons/network.svg" alt="drawing" width="17"/> Graph Algorithm Visualizer](https://graphviz.netlify.app/)
 
 
-[Reach Me here: 📮](https://www.linkedin.com/in/abhay-h-kashyap/)
+Reach Me here: &ensp; 
+[<img src="./assets/logos/linkedin.png" alt="drawing" width="23"/>](https://www.linkedin.com/in/abhay-h-kashyap/)
 
 
 <details>
