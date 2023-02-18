@@ -1,15 +1,45 @@
 # Hi there <img src="wave.gif" alt="drawing" width="40"/>
 
-I am Abhay H Kashyap, pursuing my bachelors in Computer Science and Engineering at R.V. College of Engineering, Bengaluru, India and interning at Qualcomm India. 
+<!-- I am Abhay H Kashyap, pursuing my bachelors in Computer Science and Engineering at R.V. College of Engineering, Bengaluru, India and interning at Qualcomm India. 
 
 I would describe myself as a Student, and a Computer Enthusiast. I have worked in the fields of ML, Blockchain and Web Development. I like to explore new areas and find interesting work in them.
 
-I am also passionate about astronomy and computational astronomy. (Would ike to pursue futher if you have any suggestions let me know)
+I am also passionate about astronomy and computational astronomy. (Would like to pursue futhur if you have any suggestions let me know) -->
 
-Currently: 
-- 💻 I am starting to build my portfolio website.
-- <img src="./assets/logos/5968906.png" alt="drawing" width="17"/> Exploring writing articles on Medium. [View Them](https://medium.com/@abhay_hk)
+I am Abhay, this is a short bio about me.
 
+
+```json
+{
+    "name": "Abhay H Kashyap",
+    "education": [
+        {
+            "school": "Navkis Educational Center",
+        },
+        {
+            "college": "R.V. College of Engineering",
+            "degree": "Bachelors of Engineering",
+            "major": "Computer Science and Engineering"
+        }
+    ],
+    "describe": "student, computer science enthusiast",
+    "passion": "astronomy and astrophysics",
+    "fields": ["ML", "Blockchain", "Web Dev"],
+
+    "currently": [
+        "Interning at Qualcomm",
+        "Starting my Portfolio Website",
+        "Exlopring writing with Medium"
+    ],
+    "projects":[
+        {
+            "name": "",
+            "description": "",
+        }
+    ]
+
+}
+```
 
 Some projects I have previously worked on are:
 1. [Conditional Independence using RCoT](https://github.com/mayank-agarwal-ln/RCoT)
@@ -17,11 +47,6 @@ Some projects I have previously worked on are:
 3. [💉 Rural Vaccination Drive Portal](https://github.com/abhayhk2001/DTL)
 4. [📝 React-Todo Application](https://taskcompleted-react.netlify.app/)
 5. [<img src="./assets/icons/network.svg" alt="drawing" width="17"/> Graph Algorithm Visualizer](https://graphviz.netlify.app/)
-
-
-Reach Me here: &ensp; 
-[<img src="./assets/logos/linkedin.png" alt="drawing" width="23"/>](https://www.linkedin.com/in/abhay-h-kashyap/)
-
 
 <details>
 <summary>Langauges:</summary>
@@ -79,3 +104,5 @@ Reach Me here: &ensp;
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abhayhk2001&show_icons=true&theme=merko" alt="my github stats" width="80%"/>
 </p>
+
+### Reach Me here: &ensp; [<img src="./assets/logos/linkedin.png" alt="drawing" width="18"/>](https://www.linkedin.com/in/abhay-h-kashyap/) &ensp;  [<img src="./assets/logos/gmail.png" alt="drawing" width="21"/>](mailto:abhayastro1004@gmail.com) &ensp; [<img src="./assets/logos/medium1.png" alt="drawing" height="19"/>](https://medium.com/@abhay_hk)
